@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/micro/go-micro/selector"
+	"github.com/divisionone/go-micro/selector"
 )
 
 type roundTripper struct {
