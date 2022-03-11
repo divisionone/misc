@@ -7,10 +7,15 @@ github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/divisionone/cli v0.2.1/go.mod h1:xpIXFetJ44HTKOlk9780MSXE0UuFfJNogqXjouew4H4=
-github.com/divisionone/go-micro v1.0.0 h1:4yrhRDlPfuzx/kKMkXhkKy0ZMdrrn299O/FdRTrVUK0=
+github.com/divisionone/cli v1.0.0/go.mod h1:HkcoCxovQ+y6XJQjKo5biNu29acObY/wkoMjWp09KbQ=
 github.com/divisionone/go-micro v1.0.0/go.mod h1:lWDhM5ru0nTYEfvLdQNYNIjlLcsXnrP4WDv2P43z+vE=
+github.com/divisionone/go-micro v1.0.1 h1:CX9ou6h5InvNHjp0AlvlyoQD3veamF1ccZnAEO7t1pQ=
+github.com/divisionone/go-micro v1.0.1/go.mod h1:E0Vh/s4Z+SabRP6n4RFDOTgIL28oN1InomkCFCJs5OY=
 github.com/divisionone/go-rcache v0.0.0-20180409064418-3bf8d45e6c93/go.mod h1:vJbF4YAo+Lai8N/YQMGMvUnkzlFJ3ugh/CL1LbUnsIY=
+github.com/divisionone/go-rcache v1.0.0/go.mod h1:j5vRXoik/VE81nJV8u5j903Q29nlCKc4arv46jYHSm0=
+github.com/divisionone/mdns v1.0.0/go.mod h1:7cUhRTUkd3gemDni8EsRfMp4SJ68jqbTBK6ZN7OSozg=
 github.com/divisionone/util v0.0.0-20180409064546-d45e66572862/go.mod h1:SScT9PnJkWkQIogZr3xEmqBEzKpw7zRgQ4IrizowkwI=
+github.com/divisionone/util v1.0.0/go.mod h1:ejD8RBhjJPYlPdGfTY2wMlx4NMCEsVsVeIsZPICe560=
 github.com/fatih/color v1.7.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5KwzbycvMj4=
 github.com/fatih/color v1.9.0 h1:8xPHl4/q1VyqGIPif1F+1V3Y3lSmrq01EabUW3CoW5s=
 github.com/fatih/color v1.9.0/go.mod h1:eQcE1qtQxscV5RaZvpXrrb8Drkc3/DdQ+uUYCNjL+zU=
@@ -91,6 +96,7 @@ github.com/mitchellh/mapstructure v1.1.2/go.mod h1:FVVH3fgwuzCH5S8UJGiWEs2h04kUh
 github.com/pascaldekloe/goe v0.0.0-20180627143212-57f6aae5913c h1:Lgl0gzECD8GnQ5QCWA8o6BtfL6mDH5rQgM4/fX3avOs=
 github.com/pascaldekloe/goe v0.0.0-20180627143212-57f6aae5913c/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
 github.com/pborman/uuid v1.2.0/go.mod h1:X/NO0urCmaxf9VXbdlT7C2Yzkj2IKimNn4k+gtPdI/k=
+github.com/pborman/uuid v1.2.1/go.mod h1:X/NO0urCmaxf9VXbdlT7C2Yzkj2IKimNn4k+gtPdI/k=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
