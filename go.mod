@@ -2,7 +2,7 @@ module github.com/divisionone/util
 
 go 1.17
 
-require github.com/divisionone/go-micro v1.2.2-0.20220407024343-05afdfbc0f0e
+require github.com/divisionone/go-micro v1.2.2-0.20220407025404-da2522b92c0a
 
 require (
 	github.com/armon/go-metrics v0.0.0-20180917152333-f0300d1749da // indirect
