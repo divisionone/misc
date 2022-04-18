@@ -2,7 +2,9 @@ module github.com/divisionone/util
 
 go 1.17
 
-require github.com/divisionone/go-micro v1.2.1
+replace github.com/divisionone/go-micro => github.com/divisionone/go-micro v0.0.0-20220418234210-0f996366e1ba
+
+require github.com/divisionone/go-micro v0.0.0-20220418234210-0f996366e1ba
 
 require (
 	github.com/armon/go-metrics v0.0.0-20180917152333-f0300d1749da // indirect
@@ -13,8 +15,8 @@ require (
 	github.com/hashicorp/go-immutable-radix v1.0.0 // indirect
 	github.com/hashicorp/go-rootcerts v1.0.2 // indirect
 	github.com/hashicorp/golang-lru v0.5.0 // indirect
-	github.com/hashicorp/serf v0.9.0 // indirect
-	github.com/mattn/go-colorable v0.1.4 // indirect
+	github.com/hashicorp/serf v0.9.6 // indirect
+	github.com/mattn/go-colorable v0.1.6 // indirect
 	github.com/mattn/go-isatty v0.0.12 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/mitchellh/hashstructure v1.1.0 // indirect
