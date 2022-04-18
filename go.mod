@@ -2,8 +2,6 @@ module github.com/divisionone/util
 
 go 1.17
 
-replace github.com/divisionone/go-micro => github.com/divisionone/go-micro v0.0.0-20220418234210-0f996366e1ba
-
 require github.com/divisionone/go-micro v0.0.0-20220418234210-0f996366e1ba
 
 require (
