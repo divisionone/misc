@@ -6,8 +6,12 @@ github.com/bgentry/speakeasy v0.1.0/go.mod h1:+zsyZBPWlz7T6j88CTgSN5bM796AkVf0kB
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/divisionone/go-micro v0.9.1-0.20221207071810-19ca01a57ff3 h1:yNCPxgiz/9BlBQbny6lvj8jzwMTEEfE3iQ7zf/1De+A=
-github.com/divisionone/go-micro v0.9.1-0.20221207071810-19ca01a57ff3/go.mod h1:5pF5WzEKtnTQak7MUOjlZm1AprvthvFqq9qrulADl+E=
+github.com/divisionone/go-micro/metadata v0.0.0-20221215004420-342f12ba4c9f h1:evnwLvOFsSHQAqEVIH1l5J9+d9LE/1hE4twx/vLqJcA=
+github.com/divisionone/go-micro/metadata v0.0.0-20221215004420-342f12ba4c9f/go.mod h1:mdXew3zDqnGFF8lzNUfQWySYFV0/+3khL/2DFO8M8hw=
+github.com/divisionone/go-micro/registry v0.0.0-20221215004420-342f12ba4c9f h1:CamRkFdBfsiSPRs2WW6pZd/eLEwapatoBzK9lxn5lwU=
+github.com/divisionone/go-micro/registry v0.0.0-20221215004420-342f12ba4c9f/go.mod h1:cLoKb9zaitk22A1USJ+ORLTx8R6E5iz/E61Gu+rWFLI=
+github.com/divisionone/go-micro/selector v0.0.0-20221215004420-342f12ba4c9f h1:ed+kbVsbQ5c0uJ605deOtzLqHyTiBb9+G8XyYK8FywU=
+github.com/divisionone/go-micro/selector v0.0.0-20221215004420-342f12ba4c9f/go.mod h1:G1jBppmcWZlI/IFL4LQZoiRC4/vVawjSygjHBAoq350=
 github.com/fatih/color v1.7.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5KwzbycvMj4=
 github.com/fatih/color v1.9.0 h1:8xPHl4/q1VyqGIPif1F+1V3Y3lSmrq01EabUW3CoW5s=
 github.com/fatih/color v1.9.0/go.mod h1:eQcE1qtQxscV5RaZvpXrrb8Drkc3/DdQ+uUYCNjL+zU=
