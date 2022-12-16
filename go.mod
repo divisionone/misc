@@ -3,9 +3,9 @@ module github.com/divisionone/util
 go 1.19
 
 require (
-	github.com/divisionone/go-micro/metadata v0.0.0-20221215004420-342f12ba4c9f
-	github.com/divisionone/go-micro/registry v0.0.0-20221215004420-342f12ba4c9f
-	github.com/divisionone/go-micro/selector v0.0.0-20221215004420-342f12ba4c9f
+	github.com/divisionone/go-micro/metadata v1.5.0
+	github.com/divisionone/go-micro/registry v1.5.0
+	github.com/divisionone/go-micro/selector v1.5.1
 )
 
 require (
